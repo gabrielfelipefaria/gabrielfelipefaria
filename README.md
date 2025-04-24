@@ -25,7 +25,7 @@ Jogo simples desenvolvido com C# no Unity
 
 - LinkedIn: [linkedin.com/in/gabrielfelipedefaria](https://www.linkedin.com/in/gabrielfelipedefaria)
 - E-mail: gabrielfariacomercial@gmail.com
-- GitHub: [github.com/gabrielfelipe06](https://github.com/gabrielfelipe06)
+- GitHub: [github.com/gabrielfelipe06](https://github.com/gabrielfelipefaria)
 
 ---
 
